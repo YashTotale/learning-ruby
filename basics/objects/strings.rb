@@ -9,4 +9,4 @@ x * 3           # -> 'HelloHelloHello'
 y.reverse       # -> 'dlroW'
 z.length        # -> 1
 z.to_i          # -> 1
-x << ' World'   # Changes x to 'Hello World'
+x << ' World'   # x = 'Hello World'
