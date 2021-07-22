@@ -26,4 +26,4 @@ def longest_word(words = [])
 end
 
 fruits = ['apple', 'banana', 'pear']
-puts longest_word(fruits)
+puts longest_word(fruits) # -> banana
